@@ -21,9 +21,9 @@ You can generate mails and use it to mass signin a website, it saves output in "
 
 ### Installing
 ```
-~ ❯❯❯ git clone https://github.com/Sadman-TheDentiany/MultiMail.git
+~ ❯❯❯ git clone https://github.com/Sadman-TheDentiany/MultiMail
 
-~ ❯❯❯ cd 3M
+~ ❯❯❯ cd MultiMail
 
 ~/mailmultiply ❯❯❯ chmod +x MM.sh
 
@@ -34,9 +34,9 @@ You can generate mails and use it to mass signin a website, it saves output in "
 ```
 $ apt-get install python
 
-$ git clone https://github.com/Sadman-TheDentiany/MultiMail.git
+$ git clone https://github.com/Sadman-TheDentiany/MultiMail
 
-$ cd 3M
+$ cd MultiMail
 
 $ chmod +x MM.sh
 
