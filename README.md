@@ -10,9 +10,9 @@
 You can generate mails and use it to mass signin a website, it saves output in ".lst" file. Can be used in pentesting of web app or applications. Works well with mostly all the websites while some websites blocks such emails. 
 
 
-# Screenshot
 
-<img src="https://github.com/pooja5581/tokenizer/blob/master/4/mailmultiply.png" width="100%"></img>
+
+
 
 
 ## Installing and requirements
